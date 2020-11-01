@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://yxu@10.26.1.3:22/home/yxu/anaconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/data/yxu/Github/pointnet_plus" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://sankin@192.168.173.107:22/home/sankin/anaconda3/envs/louis/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/sankin/liuwujie/pointnet" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://hdu@192.168.173.157:22/home/hdu/anaconda3/envs/louis/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

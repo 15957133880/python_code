@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://hdu@192.168.173.157:22/home/hdu/anaconda3/envs/louis/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>
